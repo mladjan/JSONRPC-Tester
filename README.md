@@ -4,5 +4,5 @@ It's free for commercial and non-comercial use.
 
 Author: 
 Mladjan Antic
-@mladjanantic
+@mladjan_antic
 mladjanantic.com
