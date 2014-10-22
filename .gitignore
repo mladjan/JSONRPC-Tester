@@ -1,0 +1,7 @@
+
+*.xccheckout
+*.xcuserstate
+*.xcscheme
+*.plist
+
+.DS_Store
